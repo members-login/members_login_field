@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="members_login_field" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+    <name>Members: login field</name>
+    <description>Provides additional Members functionalities for the Members extension.</description>
+    <repo type="github">https://github.com/tiloschroeder/members_login_field</repo>
+    <url type="issues">https://github.com/tiloschroeder/members_login_field/issues</url>
+    <types>
+        <type>Other</type>
+    </types>
+    <authors>
+        <author>
+            <name github="tiloschroeder" symphony="tiloschroeder">Tilo Schröder</name>
+            <website>https://tiloschroeder.de</website>
+        </author>
+    </authors>
+    <releases>
+        <release version="1.0.0" date="2023-05-08" min="2.6.0" />
+    </releases>
+</extension>
